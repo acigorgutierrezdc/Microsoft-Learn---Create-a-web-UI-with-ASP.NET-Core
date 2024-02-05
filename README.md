@@ -40,8 +40,11 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 ##References
 https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-8.0
+
 https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-8.0
+
 https://learn.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-8.0#consumption-patterns
+
 
 
 
